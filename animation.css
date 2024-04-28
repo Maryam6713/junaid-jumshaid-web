@@ -1,0 +1,34 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family:myfont;
+}
+.section-four{
+    margin-top: 10%;
+}
+.pictures{
+    margin-top: 10%;
+}
+.head-two{
+    margin-top: 10%;
+}
+.sec-last{
+    margin-top: 10%;
+    /* background-color: aqua; */
+}
+.forms{
+    background-color:black;
+    height: 80vh;
+    border-radius: 40px;
+}
+h2{
+    margin-top: 10%!important;
+    color: white;
+}
+.main{
+    color: white;
+}
+label{
+    color: white;
+}
